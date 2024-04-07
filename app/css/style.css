@@ -1,0 +1,165 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+} */
+
+/* variable */
+/* :root{
+    --main-color: #774ef9;
+    --main-black: #101010;
+    --black: #000;
+    --white: #fff;
+    padding: 10px 20px;
+
+} */
+
+/* Global styles */
+
+/* section{
+    height: 100vh;
+    width:100% ;
+} */
+
+/* .btn-pri{
+    padding: var(--padding);
+    border: none;
+    outline: none;
+    background-color: var(--main-color);
+    color: var(--white);
+    font-size: 1rem;
+}
+
+.download-cv{
+    padding: var(--padding);
+    border: none;
+    outline: none;
+    background-color: var(--main-color);
+    color: var(--white);
+    border-radius: 50px;
+    font-size: 1.2rem;
+    width: 150px;
+}
+
+.btn-pri:hover,
+.download-cv:hover{
+    background-color: var(--white);
+    color: var(--main-color);
+    transition: all ease-in-out .5s;
+    border: 3px solid var(--main-color);
+} */
+
+/* Navigation styles */
+
+
+/* header{
+    height: 4rem;
+    width: 100%;
+    background-color: var(--white);
+}
+
+header nav{
+    height: 80%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 60px;
+}
+
+header nav div ul{
+    display: flex;
+    align-items: center;
+    gap: 3.5rem;
+    list-style: none;
+} */
+
+/* hero section styles */
+/* .hero{
+    background-color: var(--main-color);
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+
+}
+.image-side{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero .image-side .circle{
+    height: 20rem;
+    width: 20rem;
+    background-color: var(--white);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+
+}
+
+.hero .image-side .circle img{
+    height: 15rem;
+    width: 15rem;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.hero .text-side {
+    background-color: var(--white);
+    height: 97vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.icons-1{
+    position: relative;
+    left: 1400px;
+    top: -600px;
+    
+}
+
+.follow{
+    top: -1200px;
+    color: #774ef9;
+    left: 700px;
+}
+
+.img-1{
+    position: relative;
+    top: -120px;
+    left: 180px;
+}
+
+.img-2{
+    position: relative;
+    top: -130px;
+    left: 180px; 
+}
+
+.img-3{
+    position: relative;
+    top: -130px;
+    left: 180px; 
+    color: mediumpurple;
+}
+
+.col-1{
+    position: relative;
+    left: 300px;
+    bottom: -120px;
+}
+.col-2{
+    position: relative;
+    left: 750px;
+    top: -200px;
+}
+.col-3{
+    position: relative;
+    left: 1200px;
+    bottom: 500px;
+} */
